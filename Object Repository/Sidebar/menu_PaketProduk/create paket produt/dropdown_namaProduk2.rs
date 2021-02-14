@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_namaProduk2</name>
+   <tag></tag>
+   <elementGuidId>5ddc856c-3a2d-4f69-918e-6e04532c92cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/fuse-root[1]/fuse-main[1]/mat-sidenav-container[1]/mat-sidenav-content[1]/div[1]/div[1]/div[1]/fuse-content[1]/app-package-products-create[1]/div[1]/div[1]/div[1]/form[1]/mat-tab-group[1]/div[1]/mat-tab-body[1]/div[1]/mat-list[1]/div[2]/div[1]/mat-list-item[1]/div[1]/div[3]/div[1]/mat-form-field[1]/div[1]/div[1]/div[1]/mat-select[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/fuse-root[1]/fuse-main[1]/mat-sidenav-container[1]/mat-sidenav-content[1]/div[1]/div[1]/div[1]/fuse-content[1]/app-package-products-create[1]/div[1]/div[1]/div[1]/form[1]/mat-tab-group[1]/div[1]/mat-tab-body[1]/div[1]/mat-list[1]/div[2]/div[1]/mat-list-item[1]/div[1]/div[3]/div[1]/mat-form-field[1]/div[1]/div[1]/div[1]/mat-select[1]</value>
+   </webElementProperties>
+</WebElementEntity>

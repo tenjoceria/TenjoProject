@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_Kemasan</name>
+   <tag></tag>
+   <elementGuidId>fb85b6d2-1035-4d1f-b08e-49cbfd79e407</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/fuse-root[1]/fuse-main[1]/mat-sidenav-container[1]/mat-sidenav-content[1]/div[1]/div[1]/div[1]/fuse-content[1]/app-package-products-create[1]/div[1]/div[1]/div[1]/form[1]/mat-tab-group[1]/div[1]/mat-tab-body[1]/div[1]/mat-list[1]/div[1]/div[1]/mat-list-item[1]/div[1]/div[3]/div[2]/mat-form-field[1]/div[1]/div[1]/div[1]/mat-select[1]/div[1]/div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/fuse-root[1]/fuse-main[1]/mat-sidenav-container[1]/mat-sidenav-content[1]/div[1]/div[1]/div[1]/fuse-content[1]/app-package-products-create[1]/div[1]/div[1]/div[1]/form[1]/mat-tab-group[1]/div[1]/mat-tab-body[1]/div[1]/mat-list[1]/div[1]/div[1]/mat-list-item[1]/div[1]/div[3]/div[2]/mat-form-field[1]/div[1]/div[1]/div[1]/mat-select[1]/div[1]/div[1]</value>
+   </webElementProperties>
+</WebElementEntity>
